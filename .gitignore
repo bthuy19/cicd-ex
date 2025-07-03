@@ -1,0 +1,8 @@
+mysql/
+target/
+*.log
+*.class
+*.iml
+.idea/
+.vscode/
+
